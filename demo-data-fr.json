@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "year": 2017,
+    "title": "Apprentissage profond pour l'analyse d'images médicales",
+    "abstract": "Nous examinons les réseaux de neurones convolutifs appliqués aux scanners à rayons X, CT et IRM. Les défis incluent les petits ensembles de données et l'interprétabilité."
+  },
+  {
+    "id": 2,
+    "year": 2019,
+    "title": "Recherche d'information neuronale avec transformers",
+    "abstract": "Cet article étudie les modèles basés sur BERT pour la recherche sémantique, les récupérateurs denses et les architectures hybrides."
+  },
+  {
+    "id": 3,
+    "year": 2016,
+    "title": "Impacts du changement climatique sur la biodiversité marine",
+    "abstract": "Le réchauffement climatique affecte les récifs coralliens, les populations de poissons et l'acidification des océans. Les stratégies d'adaptation et d'atténuation sont discutées."
+  },
+  {
+    "id": 4,
+    "year": 2018,
+    "title": "Informatique quantique pour les problèmes d'optimisation",
+    "abstract": "Les algorithmes quantiques tels que QAOA et la recherche de Grover offrent des accélérations pour l'optimisation combinatoire et les requêtes de bases de données."
+  },
+  {
+    "id": 5,
+    "year": 2015,
+    "title": "Bibliométrie et évaluation de la recherche",
+    "abstract": "Nous explorons l'analyse des citations, l'indice h et les altmetrics comme outils pour évaluer l'impact scientifique. Les limitations et les biais sont mis en évidence."
+  },
+  {
+    "id": 6,
+    "year": 2020,
+    "title": "Traitement du langage naturel dans les bibliothèques numériques",
+    "abstract": "Les applications incluent l'extraction de métadonnées, la reconnaissance d'entités nommées et l'indexation sémantique pour améliorer la recherche et la récupération."
+  },
+  {
+    "id": 7,
+    "year": 2018,
+    "title": "Apprentissage automatique pour le trading financier",
+    "abstract": "Nous étudions l'apprentissage supervisé et l'apprentissage par renforcement pour la prédiction boursière, avec attention à la gestion des risques."
+  },
+  {
+    "id": 8,
+    "year": 2014,
+    "title": "Archives et préservation à l'ère numérique",
+    "abstract": "Focus sur les formats de stockage à long terme, le modèle de référence OAIS et les standards de métadonnées tels que Dublin Core et PREMIS."
+  },
+  {
+    "id": 9,
+    "year": 2013,
+    "title": "Systèmes de recommandation dans l'éducation en ligne",
+    "abstract": "Le filtrage collaboratif et les modèles basés sur le contenu sont comparés. Nous évaluons la personnalisation des supports d'apprentissage."
+  },
+  {
+    "id": 10,
+    "year": 2021,
+    "title": "Grands modèles de langage et raisonnement",
+    "abstract": "Nous analysons les modèles de type GPT, les prompts de chaîne de pensée et le calcul au moment du test pour les tâches de raisonnement complexes."
+  },
+  {
+    "id": 11,
+    "year": 2022,
+    "title": "Classeurs neuronaux au-delà des mots-clés",
+    "abstract": "Les récupérateurs denses et les modèles d'interaction tardive capturent le sens plutôt que les termes exacts, améliorant la recherche de paraphrases dans les corpus scientifiques."
+  },
+  {
+    "id": 12,
+    "year": 2023,
+    "title": "Comprendre la vie océanique sous des mers en réchauffement",
+    "abstract": "La hausse des températures et l'acidification des eaux menacent les habitats coralliens et la diversité des poissons ; les politiques d'atténuation et d'adaptation sont examinées."
+  },
+  {
+    "id": 13,
+    "year": 2019,
+    "title": "Métriques d'impact pour l'évaluation scientifique",
+    "abstract": "Discute des indicateurs tels que les citations, l'indice h et les métriques alternatives dans l'évaluation de la recherche, avec les limitations de biais et de couverture."
+  },
+  {
+    "id": 14,
+    "year": 2022,
+    "title": "Indexation automatisée pour les dépôts patrimoniaux",
+    "abstract": "L'extraction d'entités et le marquage sémantique améliorent la découverte dans les systèmes de patrimoine culturel et de bibliothèques."
+  },
+  {
+    "id": 15,
+    "year": 2020,
+    "title": "IA pour la radiographie et la tomographie",
+    "abstract": "Étude des réseaux profonds sur les radiographies, CT et IRM ; l'interprétabilité et les données limitées restent des problèmes ouverts."
+  },
+  {
+    "id": 16,
+    "year": 2021,
+    "title": "ANN efficace avec HNSW et IVF-PQ",
+    "abstract": "Compare FAISS IVF-PQ avec HNSW pour la recherche vectorielle à grande échelle ; discute d'OPQ, de la quantification de produit et des compromis rappel-latence."
+  },
+  {
+    "id": 17,
+    "year": 2022,
+    "title": "SPLADE et expansion de documents pour BM25",
+    "abstract": "Les modèles lexicaux épars comme SPLADE et doc2query étendent les termes pour améliorer l'efficacité de BM25 sur les vocabulaires de longue traîne."
+  },
+  {
+    "id": 18,
+    "year": 2023,
+    "title": "ColBERTv2 : interaction tardive à l'échelle",
+    "abstract": "Index d'interaction tardive multi-vectorielle permettant un re-classement efficace et une haute précision dans la récupération de passages."
+  },
+  {
+    "id": 19,
+    "year": 2020,
+    "title": "RRF : Fusion de rang réciproque en pratique",
+    "abstract": "Montre comment RRF fusionne BM25 et la récupération dense pour une recherche robuste entre domaines."
+  },
+  {
+    "id": 20,
+    "year": 2024,
+    "title": "pgvector vs Milvus vs Weaviate",
+    "abstract": "Comparaison d'ingénierie des bases de données vectorielles et des backends ANN pour les charges de travail de recherche hybride."
+  },
+  {
+    "id": 21,
+    "year": 2016,
+    "title": "Optimisation quantique avec QAOA",
+    "abstract": "Présentation introductive de QAOA pour l'optimisation combinatoire."
+  },
+  {
+    "id": 22,
+    "year": 2023,
+    "title": "Optimisation quantique avec QAOA (mise à jour)",
+    "abstract": "Avancées récentes dans QAOA et concentration de paramètres pour les problèmes d'optimisation difficiles."
+  },
+  {
+    "id": 23,
+    "year": 2018,
+    "title": "Standards de métadonnées dans les archives",
+    "abstract": "Étude de PREMIS, METS, Dublin Core et des profils BagIt pour les paquets d'archives sous OAIS."
+  },
+  {
+    "id": 24,
+    "year": 2021,
+    "title": "Enrichissement sémantique pour les catalogues",
+    "abstract": "Lier les entités et les vocabulaires contrôlés (MeSH, FAST) pour améliorer la découverte dans les catalogues de bibliothèques."
+  },
+  {
+    "id": 25,
+    "year": 2024,
+    "title": "Extraction de métadonnées assistée par LLM",
+    "abstract": "Utilisation de modèles transformer pour extraire les titres, auteurs et sujets des PDF dans les dépôts numériques."
+  },
+  {
+    "id": 26,
+    "year": 2017,
+    "title": "Trading algorithmique avec apprentissage par renforcement",
+    "abstract": "Deep Q-learning et méthodes de gradient de politique évaluées pour les actions et crypto avec contraintes de risque."
+  },
+  {
+    "id": 27,
+    "year": 2022,
+    "title": "ML sensible à la volatilité pour les marchés",
+    "abstract": "Combinaison de signaux supervisés avec gestion des risques basée sur ATR dans les systèmes de trading en direct."
+  },
+  {
+    "id": 28,
+    "year": 2016,
+    "title": "Recommandeurs d'apprentissage personnalisés",
+    "abstract": "Recommandeurs hybrides mélangeant filtrage basé sur le contenu et filtrage collaboratif pour les MOOC."
+  },
+  {
+    "id": 29,
+    "year": 2023,
+    "title": "Équité dans les recommandeurs éducatifs",
+    "abstract": "Audit des biais et garantie de recommandations équitables dans les plateformes d'apprentissage en ligne."
+  },
+  {
+    "id": 30,
+    "year": 2022,
+    "title": "Pipelines de recherche hybride pour la science",
+    "abstract": "Modèles de conception : BM25 + dense avec fusion RRF, filtres sur année/type et re-classement cross-encoder."
+  },
+  {
+    "id": 31,
+    "year": 2021,
+    "title": "Piles de recherche vectorielle open-source",
+    "abstract": "De Qdrant et Milvus à pgvector, avec benchmarks sur IVF-PQ et HNSW."
+  },
+  {
+    "id": 32,
+    "year": 2019,
+    "title": "Requêtes booléennes pour bases de données scientifiques",
+    "abstract": "Meilleures pratiques pour construire des requêtes précises avec des filtres de champs dans Crossref et PubMed."
+  },
+  {
+    "id": 33,
+    "year": 2020,
+    "title": "Aperçu des indicateurs d'impact scientifique",
+    "abstract": "Un aperçu des mesures utilisées pour évaluer l'influence de la recherche, y compris les comptes de citations et les métriques d'impact alternatives."
+  },
+  {
+    "id": 34,
+    "year": 2021,
+    "title": "Diversité des poissons sous le réchauffement océanique",
+    "abstract": "Perte de biodiversité dans les océans en réchauffement avec accent sur les écosystèmes coralliens ; stratégies d'atténuation examinées."
+  },
+  {
+    "id": 35,
+    "year": 2024,
+    "title": "Transformers pour la récupération sémantique",
+    "abstract": "Couvre les bi-encodeurs, cross-encodeurs, interaction tardive de type ColBERT et re-classement pour la recherche dense."
+  },
+  {
+    "id": 36,
+    "year": 2018,
+    "title": "Analyse d'images IRM avec CNN",
+    "abstract": "Réseaux de neurones convolutifs appliqués à la segmentation IRM ; rareté des ensembles de données et explicabilité discutées."
+  },
+  {
+    "id": 37,
+    "year": 2017,
+    "title": "SEDA et eCH-0160 dans les transferts d'archives",
+    "abstract": "Profils pour les SIP d'archives incluant SEDA, eCH-0160 et le mapping DublinCore BagIt."
+  },
+  {
+    "id": 38,
+    "year": 2020,
+    "title": "Exports AIP et DIP conformes OAIS",
+    "abstract": "Mise en œuvre de flux de travail AIP/DIP avec événements PREMIS et wrappers METS."
+  },
+  {
+    "id": 39,
+    "year": 2021,
+    "title": "RODA et paquets e-ARK",
+    "abstract": "Guide pratique pour le prétraitement RODA-In et les spécifications E-ARK pour les paquets d'information d'archives."
+  },
+  {
+    "id": 40,
+    "year": 2023,
+    "title": "Réglage par instructions pour LLM",
+    "abstract": "Fine-tuning supervisé sur des paires prompt-réponse pour améliorer le suivi des instructions."
+  },
+  {
+    "id": 41,
+    "year": 2024,
+    "title": "Alignement de chat avec DPO",
+    "abstract": "Optimisation directe des préférences comme alternative évolutive à RLHF pour aligner les modèles conversationnels."
+  },
+  {
+    "id": 42,
+    "year": 2022,
+    "title": "Petits modèles de langage pour tâches de domaine",
+    "abstract": "Les modèles compacts affinés pour des tâches spécialisées peuvent rivaliser avec les LLM plus grands lorsqu'ils sont associés à des données de domaine."
+  },
+  {
+    "id": 43,
+    "year": 2024,
+    "title": "Recherche sensible au sens pour les collections de bibliothèques",
+    "abstract": "La compréhension des requêtes et l'indexation sémantique soutiennent la découverte lorsque le vocabulaire diffère entre utilisateurs et catalogueurs."
+  },
+  {
+    "id": 44,
+    "year": 2019,
+    "title": "IA en radiologie : des rayons X à l'imagerie par résonance magnétique",
+    "abstract": "Étude de l'apprentissage profond pour la radiologie couvrant les radiographies, CT et IRM ; l'interprétabilité est soulignée."
+  },
+  {
+    "id": 45,
+    "year": 2020,
+    "title": "Liaison d'entités dans les notices de catalogue",
+    "abstract": "Lier automatiquement les auteurs et sujets aux fichiers d'autorité pour améliorer la récupération."
+  },
+  {
+    "id": 46,
+    "year": 2018,
+    "title": "Recuit quantique dans la conception de matériaux",
+    "abstract": "Utilise des recuisseurs pour l'optimisation moléculaire, distincts des approches QAOA à modèle de circuit."
+  },
+  {
+    "id": 47,
+    "year": 2017,
+    "title": "Altmetrics dans l'analyse des médias sociaux",
+    "abstract": "Analyse des tweets et de l'attention en ligne ; non axé sur la méthodologie d'évaluation de la recherche."
+  },
+  {
+    "id": 48,
+    "year": 2025,
+    "title": "Re-classement hybride avec bge-reranker",
+    "abstract": "Évalue bge-reranker-base sur des pipelines hybrides combinant BM25 et récupération dense dans la recherche scientifique."
+  },
+  {
+    "id": 49,
+    "year": 2025,
+    "title": "OPQ évolutif pour la recherche à l'échelle du milliard",
+    "abstract": "Optimisation des codebooks de quantification de produit permettant la recherche vectorielle compressée à l'échelle."
+  },
+  {
+    "id": 50,
+    "year": 2022,
+    "title": "Évaluation contrefactuelle dans les recommandeurs",
+    "abstract": "Méthodes d'évaluation hors politique pour évaluer les systèmes de recommandation sans tests A/B en ligne."
+  },
+  {
+    "id": 51,
+    "year": 2023,
+    "title": "Vocabulaires contrôlés (MeSH, FAST, RAMEAU)",
+    "abstract": "Intégration de vedettes-matières et thésaurus avec recherche sémantique pour un meilleur rappel dans les catalogues."
+  },
+  {
+    "id": 52,
+    "year": 2020,
+    "title": "Profils BagIt pour les dépôts institutionnels",
+    "abstract": "Définition de règles d'empaquetage interopérables pour le transfert et la préservation de contenu."
+  },
+  {
+    "id": 53,
+    "year": 2018,
+    "title": "Stratégies de requêtes Crossref et PubMed",
+    "abstract": "Combinaison de filtres de champs et de logique booléenne pour augmenter la précision dans les bases de données scientifiques."
+  },
+  {
+    "id": 54,
+    "year": 2021,
+    "title": "Acidification et résilience des récifs coralliens",
+    "abstract": "Examine les impacts de la baisse du pH sur la symbiose corallienne avec des mesures de résilience potentielles."
+  },
+  {
+    "id": 55,
+    "year": 2024,
+    "title": "Pêcheries sous stress climatique",
+    "abstract": "Impacts du réchauffement et de l'acidification sur les stocks de poissons et les politiques de gestion."
+  },
+  {
+    "id": 56,
+    "year": 2017,
+    "title": "Recherche sémantique pour les dépôts institutionnels",
+    "abstract": "Utilisation d'embeddings pour combler l'écart de vocabulaire entre déposants et utilisateurs dans les dépôts."
+  },
+  {
+    "id": 57,
+    "year": 2022,
+    "title": "Recherche par mots-clés vs recherche vectorielle dans les catalogues",
+    "abstract": "Comparaison A/B de BM25, SPLADE et récupération dense avec re-classement dans les systèmes de bibliothèques."
+  },
+  {
+    "id": 58,
+    "year": 2024,
+    "title": "Calcul au moment du test et chaîne de pensée",
+    "abstract": "Augmentation du calcul au moment de l'inférence pour améliorer le raisonnement sans changer les poids."
+  },
+  {
+    "id": 59,
+    "year": 2023,
+    "title": "Distillation pour petits modèles de langage",
+    "abstract": "Transfert de traces de raisonnement de professeurs plus grands vers des modèles étudiants compacts."
+  },
+  {
+    "id": 60,
+    "year": 2025,
+    "title": "Re-classeurs centrés sur le raisonnement",
+    "abstract": "Explore les re-classeurs qui intègrent un raisonnement intermédiaire pour sélectionner les passages."
+  },
+  {
+    "id": 61,
+    "year": 2020,
+    "title": "Biologie marine",
+    "abstract": "Étude des organismes marins, de leurs comportements et de leurs interactions avec les environnements océaniques."
+  },
+  {
+    "id": 62,
+    "year": 2024,
+    "title": "Écologie des océans",
+    "abstract": "Examen des relations écologiques et des écosystèmes dans les environnements océaniques."
+  }
+]

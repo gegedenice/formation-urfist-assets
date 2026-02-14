@@ -1,0 +1,374 @@
+[
+     {
+    "id":1,
+    "year":2017,
+    "title":"Deep learning for medical image analysis",
+    "abstract":"We review convolutional neural networks applied to X-ray, CT and MRI scans. Challenges include small datasets and interpretability."
+  },
+  {
+    "id":2,
+    "year":2019,
+    "title":"Neural information retrieval with transformers",
+    "abstract":"This paper surveys BERT-based models for semantic search, dense retrievers and hybrid architectures."
+  },
+  {
+    "id":3,
+    "year":2016,
+    "title":"Climate change impacts on marine biodiversity",
+    "abstract":"Global warming affects coral reefs, fish populations and ocean acidification. Adaptation and mitigation strategies are discussed."
+  },
+  {
+    "id":4,
+    "year":2018,
+    "title":"Quantum computing for optimization problems",
+    "abstract":"Quantum algorithms such as QAOA and Grover search provide speedups for combinatorial optimization and database queries."
+  },
+  {
+    "id":5,
+    "year":2015,
+    "title":"Bibliometrics and research evaluation",
+    "abstract":"We explore citation analysis, h-index, and altmetrics as tools for assessing scientific impact. Limitations and biases are highlighted."
+  },
+  {
+    "id":6,
+    "year":2020,
+    "title":"Natural language processing in digital libraries",
+    "abstract":"Applications include metadata extraction, named entity recognition and semantic indexing to improve search and retrieval."
+  },
+  {
+    "id":7,
+    "year":2018,
+    "title":"Machine learning for financial trading",
+    "abstract":"We investigate supervised learning and reinforcement learning for stock prediction, with attention to risk management."
+  },
+  {
+    "id":8,
+    "year":2014,
+    "title":"Archives and preservation in the digital era",
+    "abstract":"Focus on long-term storage formats, OAIS reference model, and metadata standards such as Dublin Core and PREMIS."
+  },
+  {
+    "id":9,
+    "year":2013,
+    "title":"Recommender systems in online education",
+    "abstract":"Collaborative filtering and content-based models are compared. We evaluate personalization of learning materials."
+  },
+  {
+    "id":10,
+    "year":2021,
+    "title":"Large language models and reasoning",
+    "abstract":"We analyze GPT-style models, chain-of-thought prompting and test-time compute for complex reasoning tasks."
+  },
+  {
+    "id":11,
+    "year":2022,
+    "title":"Neural rankers beyond keywords",
+    "abstract":"Dense retrievers and late-interaction models capture meaning rather than exact terms, improving paraphrase search in scholarly corpora."
+  },
+  {
+    "id":12,
+    "year":2023,
+    "title":"Understanding ocean life under warming seas",
+    "abstract":"Rising temperatures and acidifying waters threaten coral habitats and fish diversity; mitigation and adaptation policies are reviewed."
+  },
+  {
+    "id":13,
+    "year":2019,
+    "title":"Impact metrics for science assessment",
+    "abstract":"Discusses indicators like citations, h-index and alternative metrics in research evaluation, with bias and coverage limitations."
+  },
+  {
+    "id":14,
+    "year":2022,
+    "title":"Automated indexing for heritage repositories",
+    "abstract":"Entity extraction and semantic tagging improve discovery in cultural heritage and library systems."
+  },
+  {
+    "id":15,
+    "year":2020,
+    "title":"AI for radiography and tomography",
+    "abstract":"Survey of deep nets on radiographs, CT and MRI; interpretability and limited data remain open issues."
+  },
+  {
+    "id":16,
+    "year":2021,
+    "title":"Efficient ANN with HNSW and IVF-PQ",
+    "abstract":"Compares FAISS IVF-PQ with HNSW for large-scale vector search; discusses OPQ, product quantization and recall-latency trade-offs."
+  },
+  {
+    "id":17,
+    "year":2022,
+    "title":"SPLADE and doc expansion for BM25",
+    "abstract":"Sparse lexical models like SPLADE and doc2query expand terms to boost BM25 effectiveness on tail vocabularies."
+  },
+  {
+    "id":18,
+    "year":2023,
+    "title":"ColBERTv2: late interaction at scale",
+    "abstract":"Multi-vector late interaction index enabling efficient re-ranking and high accuracy in passage retrieval."
+  },
+  {
+    "id":19,
+    "year":2020,
+    "title":"RRF: Reciprocal Rank Fusion in practice",
+    "abstract":"Shows how RRF fuses BM25 and dense retrieval for robust search across domains."
+  },
+  {
+    "id":20,
+    "year":2024,
+    "title":"pgvector vs Milvus vs Weaviate",
+    "abstract":"Engineering comparison of vector databases and ANN backends for hybrid search workloads."
+  },
+  {
+    "id":21,
+    "year":2016,
+    "title":"Quantum optimization with QAOA",
+    "abstract":"Introductory overview of QAOA for combinatorial optimization."
+  },
+  {
+    "id":22,
+    "year":2023,
+    "title":"Quantum optimization with QAOA (updated)",
+    "abstract":"Recent advances in QAOA and parameter concentration for hard optimization problems."
+  },
+  {
+    "id":23,
+    "year":2018,
+    "title":"Metadata standards in archives",
+    "abstract":"Survey of PREMIS, METS, Dublin Core, and BagIt profiles for archival packages under OAIS."
+  },
+  {
+    "id":24,
+    "year":2021,
+    "title":"Semantic enrichment for catalogues",
+    "abstract":"Linking entities and controlled vocabularies (MeSH, FAST) to improve discovery in library catalogues."
+  },
+  {
+    "id":25,
+    "year":2024,
+    "title":"LLM-assisted metadata extraction",
+    "abstract":"Use of transformer models to extract titles, authors and subjects from PDFs in digital repositories."
+  },
+  {
+    "id":26,
+    "year":2017,
+    "title":"Algorithmic trading with reinforcement learning",
+    "abstract":"Deep Q-learning and policy gradient methods evaluated for equities and crypto with risk constraints."
+  },
+  {
+    "id":27,
+    "year":2022,
+    "title":"Volatility-aware ML for markets",
+    "abstract":"Combining supervised signals with ATR-based risk management in live trading systems."
+  },
+  {
+    "id":28,
+    "year":2016,
+    "title":"Personalized learning recommenders",
+    "abstract":"Hybrid recommenders mixing content-based and collaborative filtering for MOOCs."
+  },
+  {
+    "id":29,
+    "year":2023,
+    "title":"Fairness in educational recommenders",
+    "abstract":"Auditing bias and ensuring equitable recommendations in online learning platforms."
+  },
+  {
+    "id":30,
+    "year":2022,
+    "title":"Hybrid search pipelines for science",
+    "abstract":"Design patterns: BM25 + dense with RRF fusion, filters on year\/type, and cross-encoder reranking."
+  },
+  {
+    "id":31,
+    "year":2021,
+    "title":"Open-source vector search stacks",
+    "abstract":"From Qdrant and Milvus to pgvector, with benchmarks on IVF-PQ and HNSW."
+  },
+  {
+    "id":32,
+    "year":2019,
+    "title":"Boolean queries for scholarly databases",
+    "abstract":"Best practices for building precise queries with field filters in Crossref and PubMed."
+  },
+  {
+    "id":33,
+    "year":2020,
+    "title":"Scholarly impact indicators overview",
+    "abstract":"An overview of measures used to assess research influence, including citation counts and alternative impact metrics."
+  },
+  {
+    "id":34,
+    "year":2021,
+    "title":"Fish diversity under ocean warming",
+    "abstract":"Biodiversity loss in warming oceans with emphasis on coral ecosystems; mitigation strategies reviewed."
+  },
+  {
+    "id":35,
+    "year":2024,
+    "title":"Transformers for semantic retrieval",
+    "abstract":"Covers bi-encoders, cross-encoders, ColBERT-style late interaction and reranking for dense search."
+  },
+  {
+    "id":36,
+    "year":2018,
+    "title":"MRI image analysis with CNNs",
+    "abstract":"Convolutional neural networks applied to MRI segmentation; dataset scarcity and explainability discussed."
+  },
+  {
+    "id":37,
+    "year":2017,
+    "title":"SEDA and eCH-0160 in archival transfers",
+    "abstract":"Profiles for archival SIPs including SEDA, eCH-0160 and DublinCore BagIt mapping."
+  },
+  {
+    "id":38,
+    "year":2020,
+    "title":"OAIS-compliant AIP and DIP exports",
+    "abstract":"Implementing AIP\/DIP workflows with PREMIS events and METS wrappers."
+  },
+  {
+    "id":39,
+    "year":2021,
+    "title":"RODA and e-ARK packages",
+    "abstract":"Practical guide to RODA-In preprocessing and E-ARK specifications for archival information packages."
+  },
+  {
+    "id":40,
+    "year":2023,
+    "title":"Instruction tuning for LLMs",
+    "abstract":"Supervised fine-tuning on prompt\u2013response pairs to improve instruction following."
+  },
+  {
+    "id":41,
+    "year":2024,
+    "title":"Chat alignment with DPO",
+    "abstract":"Direct Preference Optimization as a scalable alternative to RLHF for aligning conversational models."
+  },
+  {
+    "id":42,
+    "year":2022,
+    "title":"Small language models for domain tasks",
+    "abstract":"Compact models fine-tuned for specialized tasks can rival larger LLMs when paired with domain data."
+  },
+  {
+    "id":43,
+    "year":2024,
+    "title":"Meaning-aware search for library collections",
+    "abstract":"Query understanding and semantic indexing support discovery when vocabulary differs between users and cataloguers."
+  },
+  {
+    "id":44,
+    "year":2019,
+    "title":"Radiology AI: from X-rays to MR imaging",
+    "abstract":"Survey of deep learning for radiology spanning radiographs, CT and MR; interpretability emphasized."
+  },
+  {
+    "id":45,
+    "year":2020,
+    "title":"Entity linking in catalog records",
+    "abstract":"Automatically linking authors and subjects to authority files to improve retrieval."
+  },
+  {
+    "id":46,
+    "year":2018,
+    "title":"Quantum annealing in materials design",
+    "abstract":"Uses annealers for molecular optimization, distinct from circuit-model QAOA approaches."
+  },
+  {
+    "id":47,
+    "year":2017,
+    "title":"Altmetrics in social media analytics",
+    "abstract":"Analyzing tweets and online attention; not focused on research evaluation methodology."
+  },
+  {
+    "id":48,
+    "year":2025,
+    "title":"Hybrid reranking with bge-reranker",
+    "abstract":"Evaluates bge-reranker-base on hybrid pipelines combining BM25 and dense retrieval in scientific search."
+  },
+  {
+    "id":49,
+    "year":2025,
+    "title":"Scalable OPQ for billion-scale search",
+    "abstract":"Optimization of product quantization codebooks enabling compressed vector search at scale."
+  },
+  {
+    "id":50,
+    "year":2022,
+    "title":"Counterfactual evaluation in recommenders",
+    "abstract":"Off-policy evaluation methods to assess recommender systems without online A\/B tests."
+  },
+  {
+    "id":51,
+    "year":2023,
+    "title":"Controlled vocabularies (MeSH, FAST, RAMEAU)",
+    "abstract":"Integrating subject headings and thesauri with semantic search for better recall in catalogs."
+  },
+  {
+    "id":52,
+    "year":2020,
+    "title":"BagIt profiles for institutional repositories",
+    "abstract":"Defining interoperable packaging rules for content transfer and preservation."
+  },
+  {
+    "id":53,
+    "year":2018,
+    "title":"Crossref and PubMed query strategies",
+    "abstract":"Combining field filters and Boolean logic to increase precision in scholarly databases."
+  },
+  {
+    "id":54,
+    "year":2021,
+    "title":"Acidification and coral reef resilience",
+    "abstract":"Examines pH decline impacts on coral symbiosis with potential resilience measures."
+  },
+  {
+    "id":55,
+    "year":2024,
+    "title":"Fisheries under climate stress",
+    "abstract":"Impacts of warming and acidification on fish stocks and management policies."
+  },
+  {
+    "id":56,
+    "year":2017,
+    "title":"Semantic search for institutional repositories",
+    "abstract":"Using embeddings to bridge vocabulary gap between depositors and users in repositories."
+  },
+  {
+    "id":57,
+    "year":2022,
+    "title":"Keyword vs vector search in catalogs",
+    "abstract":"A\/B comparison of BM25, SPLADE and dense retrieval with reranking in library systems."
+  },
+  {
+    "id":58,
+    "year":2024,
+    "title":"Test-time compute and chain-of-thought",
+    "abstract":"Increasing inference-time computation to improve reasoning without changing weights."
+  },
+  {
+    "id":59,
+    "year":2023,
+    "title":"Distillation for small language models",
+    "abstract":"Transferring reasoning traces from larger teachers to compact student models."
+  },
+  {
+    "id":60,
+    "year":2025,
+    "title":"Reasoning-centric rerankers",
+    "abstract":"Explores rerankers that integrate intermediate reasoning to select passages."
+  },
+  {
+    "id": 61,
+    "year": 2020,
+    "title": "Marine biology",
+    "abstract": "Study of marine organisms, their behaviors, and interactions with ocean environments."
+  },
+  {
+	"id": 62,
+	"year": 2024,
+	"title": "Ocean ecology",
+	"abstract": "Examination of ecological relationships and ecosystems within oceanic environments."
+  }
+]
